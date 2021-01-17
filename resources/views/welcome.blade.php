@@ -27,7 +27,7 @@
 
 
 <div class="container  my-3" id="info_slider">
-    <h2 class=" text-center my-5">INFÓRMATE MÁS!..</h2>
+    <h2 class=" text-center my-5">INFÓRMATE MÁS...</h2>
     <div class="row mx-auto my-auto">
         <div id="recipeCarousel" class="carousel slide w-100" data-ride="carousel">
             <div class="carousel-inner w-100" role="listbox">
